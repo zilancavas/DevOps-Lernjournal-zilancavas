@@ -54,14 +54,21 @@ Mein Name ist Zilan Cavas und ich bin eine technologiebegeisterte Quereinsteiger
 
 Nach meinem B.Sc. in Business Administration (Digital Business & Value Networks) habe ich mein Interesse für Softwareentwicklung & IT-Architektur weiter vertieft und studiere nun Business Information Technology (M.Sc.) an der ZHAW. Derzeit arbeite ich als Software Engineer für SAP-Entwicklung bei einer Versicherung.  Meine Schwerpunkte liegen auf SAP ABAP, Cloud-Lösungen und Prozessautomatisierung.
 
-Im Studium konnte ich erste Erfahrungen mit Java, Python und SQL sammeln. In meiner aktuellen Tätigkeit als Software Engineer habe ich die Möglichkeit, mich in ABAP-Entwicklung einzuarbeiten und lerne dabei täglich dazu. Da ich als Quereinsteigerin aus dem Business-Bereich komme, ist vie-les für mich noch neu, aber ich arbeite mich Schritt für Schritt in Softwareentwicklung und Systemintegration ein. APIs und Schnittstellenentwicklung begegnen mir regelmässig in Projekten, wodurch ich erste praktische Erfahrungen mit OData, REST- und SOAP-APIs sammeln konnte. Ich freue mich darauf, mein Wissen weiter auszubauen und mich kontinuierlich in neue Technologien und Entwicklungsprozesse einzuarbeiten.
+Im Studium konnte ich erste Erfahrungen mit Java, Python und SQL sammeln. In meiner aktuellen Tätigkeit als Software Engineer habe ich die Möglichkeit, mich in ABAP-Entwicklung einzuarbeiten und lerne dabei täglich dazu. Da ich als Quereinsteigerin aus dem Business-Bereich komme, ist vieles für mich noch neu, aber ich arbeite mich Schritt für Schritt in Softwareentwicklung und Systemintegration ein. APIs und Schnittstellenentwicklung begegnen mir regelmässig in Projekten, wodurch ich erste praktische Erfahrungen mit OData, REST- und SOAP-APIs sammeln konnte. Ich freue mich darauf, mein Wissen weiter auszubauen und mich kontinuierlich in neue Technologien und Entwicklungsprozesse einzuarbeiten.
 
 ### Bezug zu DevOps und Motivation für das Modul
+Ich sehe DevOps als eine der entscheidenden Brücken zwischen Softwareentwicklung & IT-Betrieb. In der heutigen IT-Welt reicht es nicht aus, nur Code zu schreiben – der Fokus liegt auf Effizienz, Automatisierung & Zusammenarbeit. Was mich motiviert? Ich habe eine Leidenschaft für Automatisierung und Effizienz. Repetitive Prozesse zu optimieren und durch clevere Automatisie-rung nachhaltiger zu gestalten, treibt mich an.
 
-- [ ] TODO
 
 ### Verwendete Hardware / Betriebssystem
 
+- **Laptop:** MacBook Pro 13-inch, M1 (2020)  
+- **Chip:** Apple M1  
+- **Arbeitsspeicher:** 8 GB RAM  
+- **Speicherplatz:** 500 GB SSD  
+- **Betriebssystem:** macOS Sonoma 14.5  
+- **Entwicklungsumgebungen:** Visual Studio Code  
+- **Eingesetzte Tools:** Docker, Git, Postman, Terminal (zsh)  
 
 
 ## Peer-Feedback
