@@ -50,13 +50,10 @@ Link auf separates Git-Repo für jedes Kapitel.
 
 ### Person, IT-Know-How
 
-Mein Name ist **Zilan Cavas** und ich bin eine technologiebegeisterte Quereinsteigerin mit einem Hintergrund in **Business & IT**.  
-Mein Weg führte mich über die **BWL** und **digitale Geschäftsmodelle** zur Welt der **Softwareentwicklung**, **Cloud-Technologien** und **SAP-Architektur**.  
+Mein Name ist Zilan Cavas und ich bin eine technologiebegeisterte Quereinsteigerin mit einem Hintergrund in Business & IT.  Mein Weg führte mich über die BWL und digitale Geschäftsmodelle zur Welt der Softwareentwicklung, Cloud-Technologien und SAP-Architektur.  
 
-Nach meinem **B.Sc. in Business Administration** (Digital Business & Value Networks) habe ich mein Interesse für **Softwareentwicklung & IT-Architektur** weiter vertieft und studiere nun **Business Information Technology (M.Sc.)** an der **ZHAW**.  
-
-Derzeit arbeite ich als **Software Engineer für SAP-Entwicklung** bei einer Versicherung.  
-Meine Schwerpunkte liegen auf **SAP ABAP**, **S/4HANA**, **Cloud-Lösungen** und **Prozessautomatisierung**.
+Nach meinem B.Sc. in Business Administration (Digital Business & Value Networks) habe ich mein Interesse für Softwareentwicklung & IT-Architektur weiter vertieft und studiere nun Business Information Technology (M.Sc.) an der ZHAW. Derzeit arbeite ich als Software Engineer für SAP-Entwicklung bei einer Versicherung.  
+Meine Schwerpunkte liegen auf SAP ABAP, Cloud-Lösungen und Prozessautomatisierung.
 
 ### Bezug zu DevOps und Motivation für das Modul
 
