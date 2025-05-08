@@ -50,10 +50,13 @@ Link auf separates Git-Repo für jedes Kapitel.
 
 ### Person, IT-Know-How
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<img src="images/profilbild.png" alt="Profilbild" width="180" style="border-radius: 8px"/>
+
+<div>
 Mein Name ist Zilan Cavas und ich bin eine technologiebegeisterte Quereinsteigerin mit einem Hintergrund in Business & IT.  Mein Weg führte mich über die BWL und digitale Geschäftsmodelle zur Welt der Softwareentwicklung, Cloud-Technologien und SAP-Architektur.  
-<p align="center">
-  <img src="images/profilbild.png" alt="Profilbild von Zilan Cavas" width="200"/>
-</p>
+
 Nach meinem B.Sc. in Business Administration (Digital Business & Value Networks) habe ich mein Interesse für Softwareentwicklung & IT-Architektur weiter vertieft und studiere nun Business Information Technology (M.Sc.) an der ZHAW. Derzeit arbeite ich als Software Engineer für SAP-Entwicklung bei einer Versicherung.  Meine Schwerpunkte liegen auf SAP ABAP, Cloud-Lösungen und Prozessautomatisierung.
 
 Im Studium konnte ich erste Erfahrungen mit Java, Python und SQL sammeln. In meiner aktuellen Tätigkeit als Software Engineer habe ich die Möglichkeit, mich in ABAP-Entwicklung einzuarbeiten und lerne dabei täglich dazu. Da ich als Quereinsteigerin aus dem Business-Bereich komme, ist vieles für mich noch neu, aber ich arbeite mich Schritt für Schritt in Softwareentwicklung und Systemintegration ein. APIs und Schnittstellenentwicklung begegnen mir regelmässig in Projekten, wodurch ich erste praktische Erfahrungen mit OData, REST- und SOAP-APIs sammeln konnte. Ich freue mich darauf, mein Wissen weiter auszubauen und mich kontinuierlich in neue Technologien und Entwicklungsprozesse einzuarbeiten.
