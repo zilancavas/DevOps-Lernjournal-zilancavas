@@ -36,7 +36,7 @@ Link auf separates Git-Repo für jedes Kapitel.
 * [ ] TODO Die Links müssen nach dem Erstellen der eigenen Repos angepasst werden.
 
 - [01 Version Control](https://github.com/zilancavas/Repo_Zilan)
-- [02 Build](https://github.com/devopszhaw/DevOps-02-Build)
+- [02 Build](https://github.com/zilancavas/DevOps-02-Build-Zilan)
 - [03 DevOpsDemo](https://github.com/devopszhaw/DevOps-03-DevOpsDemo)
 - [04 Containers](https://github.com/devopszhaw/DevOps-04-Containers)
 - [05 Unit Tests](https://github.com/devopszhaw/DevOps-05-Unit-Tests)
