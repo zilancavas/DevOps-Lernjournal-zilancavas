@@ -70,7 +70,7 @@ Ich sehe DevOps als eine der entscheidenden Brücken zwischen Softwareentwicklun
 - **Speicherplatz:** 500 GB SSD  
 - **Betriebssystem:** macOS Sonoma 14.5 (vor Update) → **aktuell:** macOS Sequoia 15.4.1 (nach Systemupdate)
 - **Entwicklungsumgebungen:** Visual Studio Code  
-- **Eingesetzte Tools:** Docker, Git, Postman, Terminal (zsh)  
+- **Eingesetzte Tools:** Docker, Git, Postman, Terminal (zsh), SonarCube, Selenium..  
 
 
 ## Peer-Feedback
