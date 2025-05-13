@@ -38,7 +38,7 @@
 - [04 Containers](https://github.com/zilancavas/DevOps-04-Containers)
 - [05 Unit Tests](https://github.com/zilancavas/DevOps-05-Unit-Tests)
 - [06 Quality](https://github.com/zilancavas/DevOps-06-Quality)
-- [07 CI1](https://github.com/devopszhaw/DevOps-07-CI1)
+- [07 CI1](https://github.com/zilancavas/DevOps-07-CI1)
 - [08 CI2](https://github.com/devopszhaw/DevOps-08-CI2)
 - [09 Deployment Docker](https://github.com/devopszhaw/DevOps-09-Deployment-Docker)
 - [10 Deployment Cloud](https://github.com/devopszhaw/DevOps-10-Deployment-Cloud)
