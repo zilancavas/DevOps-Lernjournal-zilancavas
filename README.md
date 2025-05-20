@@ -74,8 +74,11 @@ Ich sehe DevOps als eine der entscheidenden Brücken zwischen Softwareentwicklun
 
 
 ## Peer-Feedback
-
-- [ ] TODO (letzte Semesterwoche)
+| -------- | ------- |
+| Review durch (ZHAW-Kürzel)| cavaszil |
+| Review von (ZHAW-Kürzel) |  | durutdam
+| Sprache, Kommunikation, roter Faden | xy |
+| Nachvollziehbarkeit Inhalt, Demonstration |xy |
 
 ## Persönliches Fazit der Vorlesung
 
