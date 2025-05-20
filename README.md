@@ -80,7 +80,7 @@ Ich sehe DevOps als eine der entscheidenden Brücken zwischen Softwareentwicklun
 | Review durch (ZHAW-Kürzel)| cavaszil |
 | Review von (ZHAW-Kürzel) | durutdam | 
 | Sprache, Kommunikation, roter Faden | TODO |
-| Nachvollziehbarkeit Inhalt, Demonstration | TODO |
+| Nachvollziehbarkeit Inhalt, Demonstration | Damir zeigt eine Live-Demo, in der er den Code direkt eingibt und dabei sehr genau hinschaut. Er erklärt den Code verständlich und die Tests laufen erfolgreich durch. Besonders positiv ist, dass er darauf hinweist, dass eine 100%ige Testabdeckung nicht immer bedeutet, dass der Code auch perfekt ist. Allerdings könnte die Demo noch etwas mehr Innovation vertragen, zum Beispiel durch eine passende Grafik. |
 
 ## Persönliches Fazit der Vorlesung
 
