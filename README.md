@@ -78,7 +78,7 @@ Ich sehe DevOps als eine der entscheidenden Brücken zwischen Softwareentwicklun
 | | Bitte ausfüllen |
 | -------- | ------- |
 | Review durch (ZHAW-Kürzel)| cavaszil |
-| Review von (ZHAW-Kürzel) |  | durutdam
+| Review von (ZHAW-Kürzel) | durutdam | 
 | Sprache, Kommunikation, roter Faden | TODO |
 | Nachvollziehbarkeit Inhalt, Demonstration | TODO |
 
