@@ -79,10 +79,9 @@ Ich sehe DevOps als eine der entscheidenden Brücken zwischen Softwareentwicklun
 | -------- | ------- |
 | Review durch (ZHAW-Kürzel)| cavaszil |
 | Review von (ZHAW-Kürzel) | durutdam | 
-| Sprache, Kommunikation, roter Faden | Die Sprache ist insgesamt verständlich, jedoch könnten einige Füllwörter wie „ehm“ reduziert werden, um den Vortrag flüssiger wirken zu lassen. Ausserdem wären längere Pausen zwischen den Abschnitten sinnvoll, um dem Publikum Zeit zum Verarbeiten der Inhalte zu geben. Der rote Faden ist grösstenteils erkennbar, könnte aber durch eine klarere Struktur und verbindende Übergänge zwischen den Themen noch besser herausgearbeitet werden.|
-| Nachvollziehbarkeit Inhalt, Demonstration | Damir zeigt eine Live-Demo, in der er den Code direkt eingibt und dabei sehr genau hinschaut. Er erklärt den Code verständlich und die Tests laufen erfolgreich durch. Besonders positiv ist, dass er darauf hinweist, dass eine 100%ige Testabdeckung nicht immer bedeutet, dass der Code auch perfekt ist. Allerdings könnte die Demo noch etwas mehr Innovation vertragen, zum Beispiel durch eine passende Grafik. |
+| Sprache, Kommunikation, roter Faden | Die Sprache ist insgesamt sehr verständlich. Längere Pausen zwischen den Abschnitten wäre sinnvoll, um dem Publikum Zeit zum Verarbeiten der Inhalte zu geben. Der rote Faden ist grösstenteils erkennbar, könnte aber durch eine klarere Struktur und verbindende Übergänge zwischen den Themen noch besser herausgearbeitet werden.|
+| Nachvollziehbarkeit Inhalt, Demonstration | Damir zeigt eine Live-Demo, in der er den Code direkt eingibt und dabei sehr genau hinschaut. Er erklärt den Code verständlich und die Tests laufen erfolgreich durch. Besonders positiv ist, dass er darauf hinweist, dass eine 100%ige Testabdeckung nicht immer bedeutet, dass der Code auch perfekt ist. Allerdings könnte der Screencast noch etwas mehr Innovation vertragen, zum Beispiel durch passende Grafiken. |
 
 ## Persönliches Fazit der Vorlesung
 
-- [ ] TODO
 
